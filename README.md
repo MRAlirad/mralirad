@@ -4,11 +4,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 💫  About Me 
-🌱 I’m currently working for Altyn Group.
-🔭 I’m currently working on my freelance projects
-👯 I’m looking to collaborate on smart contracts
-🌱 I’m currently learning Solidity and Web3
+## 💫  About Me
+- 🌱 I’m currently working for Altyn Group.
+- 🔭 I’m currently working on my freelance projects
+- 👯 I’m looking to collaborate on smart contracts
+- 🌱 I’m currently learning Solidity and Web3
 
 ## 🌐 Socials 
 
