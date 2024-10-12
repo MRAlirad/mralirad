@@ -5,7 +5,7 @@
 </p>
 
 ## 💫  About Me
-- 🌱 I’m currently working for Altyn Group.
+- 🌱 I’m currently working for Altyn IT Group.
 - 🔭 I’m currently working on my freelance projects
 - 👯 I’m looking to collaborate on smart contracts
 - 🌱 I’m currently learning Solidity and Web3
