@@ -1,13 +1,20 @@
 <br>
 
-## 💫  About Me
+# Hi there 👋🏻, I'm Mohammadreza Alirad
 
 
 ## 💫  About Me
-- 🌱 I’m currently working for Altyn IT Group.
-- 🔭 I’m currently working on my freelance projects
-- 👯 I’m looking to collaborate on smart contracts
-- 🌱 I’m currently learning Solidity and Web3
+- 🌱 I’m currently working for --> Altyn IT Group.
+- 👀 I’m interested in --> Blockchain, Ethereum, Evm, Defi, Solidity, and Foundry.
+- 💞️ I’m looking to collaborate on --> Smart Contract Security Research
+- 🌱 I’m currently learning --> Solidity and Smart Contract Security
+
+## 🎯 Skills
+
+### blockchain
+
+<img src="https://img.shields.io/badge/Ethereum-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+
 
 ## 🌐 Socials 
 
@@ -62,18 +69,3 @@
 
 
 <br>
-
-<!--
-**MRAlirad/mralirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
