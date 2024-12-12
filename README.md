@@ -12,6 +12,8 @@
 
 ## 🌐 Socials 
 
+<img src={68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d6536653665363f7374796c653d666f722d7468652d6261646765266c6f676f3d457468657265756d266c6f676f436f6c6f723d626c61636b} />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-alirad-a384041a0/)
 
 <br>
