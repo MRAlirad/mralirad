@@ -4,7 +4,7 @@
 
 
 ## 💫  About Me
-- 🌱 I’m currently working for --> Altyn IT Group.
+- 🌱 I’m currently working for --> Golestan Altyn IT Digital.
 - 👀 I’m interested in --> Blockchain, Ethereum, Evm, Defi, Solidity, and Foundry.
 - 💞️ I’m looking to collaborate on --> Smart Contract Security Research
 - 🌱 I’m currently learning --> Solidity and Smart Contract Security
